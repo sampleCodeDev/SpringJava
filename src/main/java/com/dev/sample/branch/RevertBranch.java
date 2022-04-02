@@ -6,4 +6,8 @@ public class RevertBranch {
         System.out.println("mainBranch...");
         System.out.println("revert.......");
     }
+
+    private void revertBranch(){
+        System.out.println("revert.......");
+    }
 }
