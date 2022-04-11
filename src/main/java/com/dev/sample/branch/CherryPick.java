@@ -13,5 +13,9 @@ public class CherryPick {
         System.out.println("cherry-pick 3333");
     }
 
+    private void cherry4(){
+        System.out.println("cherry-pick 4444");
+    }
+
 
 }
